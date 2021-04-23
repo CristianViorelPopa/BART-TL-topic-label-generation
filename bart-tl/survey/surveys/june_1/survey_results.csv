@@ -1,0 +1,18 @@
+﻿Model;Top-1 Average Rating;Top-3 Average Rating;Top-5 Average Rating;All-labels Average Rating;nDCG-1;nDCG-3;nDCG-5
+BART-TL-regular raw;2.71;2.17;2.46;2.51;0.65;0.51;0.62
+BART-TL-regular unsupervised;3.00;2.55;2.63;2.51;0.74;0.66;0.75
+BART-TL-regular supervised;3.07;2.60;2.57;2.51;0.80;0.70;0.74
+BART-TL-ngram raw;3.14;3.26;2.91;2.64;0.69;0.76;0.72
+BART-TL-ngram unsupervised;3.50;3.14;3.04;2.64;0.83;0.78;0.80
+BART-TL-ngram supervised;3.79;3.12;3.03;2.64;0.96;0.79;0.81
+BART-TL-phrase raw;2.36;2.69;2.79;2.74;0.36;0.51;0.59
+BART-TL-phrase unsupervised;3.43;3.19;3.13;2.74;0.76;0.75;0.79
+BART-TL-phrase supervised;3.29;3.36;3.01;2.74;0.70;0.79;0.76
+NETL unsupervised;2.50;3.00;2.80;2.59;0.55;0.75;0.77
+NETL supervised;3.50;2.95;2.90;2.53;0.88;0.79;0.85
+BART-TL-all+NPs (beam 25);3.36;3.21;3.07;2.96;0.76;0.73;0.75
+BART-TL-all+NPs (beam 25) unsupervised;3.79;3.57;3.47;2.96;0.96;0.89;0.90
+BART-TL-all+NPs (beam 25) supervised;3.79;3.57;3.40;2.96;0.96;0.90;0.90
+BART-TL-all+NPs (beam 100);3.43;3.26;3.14;2.99;0.73;0.69;0.71
+BART-TL-all+NPs (beam 100) unsupervised;3.93;3.50;3.17;2.99;0.96;0.84;0.81
+BART-TL-all+NPs (beam 100) supervised;3.86;3.40;3.33;2.99;0.91;0.79;0.82

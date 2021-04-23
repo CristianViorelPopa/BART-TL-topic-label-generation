@@ -1,0 +1,3740 @@
+[
+    [
+        {
+            "word": "ball",
+            "prob": "0.037826832"
+        },
+        {
+            "word": "red",
+            "prob": "0.021022264"
+        },
+        {
+            "word": "cointegration",
+            "prob": "0.013605374"
+        },
+        {
+            "word": "urn",
+            "prob": "0.012960617"
+        },
+        {
+            "word": "egg",
+            "prob": "0.012185594"
+        },
+        {
+            "word": "rural",
+            "prob": "0.010471115"
+        },
+        {
+            "word": "stationary",
+            "prob": "0.010044251"
+        },
+        {
+            "word": "urban",
+            "prob": "0.009272487"
+        },
+        {
+            "word": "green",
+            "prob": "0.007416566"
+        },
+        {
+            "word": "w_a",
+            "prob": "0.0069846045"
+        }
+    ],
+    [
+        {
+            "word": "army",
+            "prob": "0.02804702"
+        },
+        {
+            "word": "na",
+            "prob": "0.020756556"
+        },
+        {
+            "word": "organization",
+            "prob": "0.013146965"
+        },
+        {
+            "word": "meal",
+            "prob": "0.012382576"
+        },
+        {
+            "word": "industrial",
+            "prob": "0.0119881425"
+        },
+        {
+            "word": "resident",
+            "prob": "0.0105785495"
+        },
+        {
+            "word": "prize",
+            "prob": "0.009585129"
+        },
+        {
+            "word": "restaurant",
+            "prob": "0.00870112"
+        },
+        {
+            "word": "weak",
+            "prob": "0.008051032"
+        },
+        {
+            "word": "attack",
+            "prob": "0.007905335"
+        }
+    ],
+    [
+        {
+            "word": "country",
+            "prob": "0.025499132"
+        },
+        {
+            "word": "rate",
+            "prob": "0.023636127"
+        },
+        {
+            "word": "currency",
+            "prob": "0.023490857"
+        },
+        {
+            "word": "exchange",
+            "prob": "0.014139702"
+        },
+        {
+            "word": "price",
+            "prob": "0.0112225115"
+        },
+        {
+            "word": "export",
+            "prob": "0.009015543"
+        },
+        {
+            "word": "good",
+            "prob": "0.008866792"
+        },
+        {
+            "word": "u",
+            "prob": "0.008829589"
+        },
+        {
+            "word": "usd",
+            "prob": "0.008794151"
+        },
+        {
+            "word": "foreign",
+            "prob": "0.00866846"
+        }
+    ],
+    [
+        {
+            "word": "price",
+            "prob": "0.029691573"
+        },
+        {
+            "word": "market",
+            "prob": "0.02422772"
+        },
+        {
+            "word": "agent",
+            "prob": "0.017404443"
+        },
+        {
+            "word": "model",
+            "prob": "0.014070048"
+        },
+        {
+            "word": "bid",
+            "prob": "0.009703178"
+        },
+        {
+            "word": "asset",
+            "prob": "0.009065642"
+        },
+        {
+            "word": "stock",
+            "prob": "0.008811009"
+        },
+        {
+            "word": "auction",
+            "prob": "0.00807926"
+        },
+        {
+            "word": "expectation",
+            "prob": "0.007894224"
+        },
+        {
+            "word": "seller",
+            "prob": "0.0073257885"
+        }
+    ],
+    [
+        {
+            "word": "career",
+            "prob": "0.016948758"
+        },
+        {
+            "word": "bring",
+            "prob": "0.001964857"
+        },
+        {
+            "word": "pursuing",
+            "prob": "0.001841568"
+        },
+        {
+            "word": "frac",
+            "prob": "0.0011886851"
+        },
+        {
+            "word": "utility",
+            "prob": "0.0008100364"
+        },
+        {
+            "word": "mathbf",
+            "prob": "0.0007339478"
+        },
+        {
+            "word": "would",
+            "prob": "0.00073162414"
+        },
+        {
+            "word": "anymore",
+            "prob": "0.0007238647"
+        },
+        {
+            "word": "q_",
+            "prob": "0.0006337264"
+        },
+        {
+            "word": "p_",
+            "prob": "0.0005581361"
+        }
+    ],
+    [
+        {
+            "word": "steel",
+            "prob": "0.015404367"
+        },
+        {
+            "word": "soybean",
+            "prob": "0.01506327"
+        },
+        {
+            "word": "c_a",
+            "prob": "0.006916332"
+        },
+        {
+            "word": "signaling",
+            "prob": "0.00654922"
+        },
+        {
+            "word": "t_k",
+            "prob": "0.006230968"
+        },
+        {
+            "word": "mutant",
+            "prob": "0.005400062"
+        },
+        {
+            "word": "beer",
+            "prob": "0.0052754227"
+        },
+        {
+            "word": "spence",
+            "prob": "0.005268001"
+        },
+        {
+            "word": "separating",
+            "prob": "0.0050463136"
+        },
+        {
+            "word": "divinity",
+            "prob": "0.0046080127"
+        }
+    ],
+    [
+        {
+            "word": "theta",
+            "prob": "0.14446618"
+        },
+        {
+            "word": "prime",
+            "prob": "0.05367446"
+        },
+        {
+            "word": "varepsilon",
+            "prob": "0.022963082"
+        },
+        {
+            "word": "sim",
+            "prob": "0.019843647"
+        },
+        {
+            "word": "pr",
+            "prob": "0.0125046875"
+        },
+        {
+            "word": "lambda",
+            "prob": "0.009904905"
+        },
+        {
+            "word": "rule",
+            "prob": "0.009137443"
+        },
+        {
+            "word": "domain",
+            "prob": "0.008434768"
+        },
+        {
+            "word": "receiver",
+            "prob": "0.00830275"
+        },
+        {
+            "word": "underline",
+            "prob": "0.008247399"
+        }
+    ],
+    [
+        {
+            "word": "mathbf",
+            "prob": "0.17947476"
+        },
+        {
+            "word": "vert",
+            "prob": "0.024758581"
+        },
+        {
+            "word": "distribution",
+            "prob": "0.016416216"
+        },
+        {
+            "word": "capm",
+            "prob": "0.010604572"
+        },
+        {
+            "word": "cauchy",
+            "prob": "0.009688912"
+        },
+        {
+            "word": "eu",
+            "prob": "0.0052121594"
+        },
+        {
+            "word": "member",
+            "prob": "0.0049467687"
+        },
+        {
+            "word": "dutch",
+            "prob": "0.004935791"
+        },
+        {
+            "word": "component",
+            "prob": "0.004832729"
+        },
+        {
+            "word": "matrix",
+            "prob": "0.0047062295"
+        }
+    ],
+    [
+        {
+            "word": "p_s",
+            "prob": "0.024442824"
+        },
+        {
+            "word": "coke",
+            "prob": "0.022070127"
+        },
+        {
+            "word": "can",
+            "prob": "0.01528655"
+        },
+        {
+            "word": "c_s",
+            "prob": "0.015215863"
+        },
+        {
+            "word": "p_l",
+            "prob": "0.013997246"
+        },
+        {
+            "word": "c_l",
+            "prob": "0.013186116"
+        },
+        {
+            "word": "peter",
+            "prob": "0.012786158"
+        },
+        {
+            "word": "alice",
+            "prob": "0.009442518"
+        },
+        {
+            "word": "pln",
+            "prob": "0.0078077507"
+        },
+        {
+            "word": "foreign",
+            "prob": "0.0045917644"
+        }
+    ],
+    [
+        {
+            "word": "apple",
+            "prob": "0.046639565"
+        },
+        {
+            "word": "tariff",
+            "prob": "0.013619128"
+        },
+        {
+            "word": "biggr",
+            "prob": "0.011969353"
+        },
+        {
+            "word": "candle",
+            "prob": "0.00833568"
+        },
+        {
+            "word": "i_i",
+            "prob": "0.007985381"
+        },
+        {
+            "word": "clothes",
+            "prob": "0.007883565"
+        },
+        {
+            "word": "kid",
+            "prob": "0.006955411"
+        },
+        {
+            "word": "mu_u",
+            "prob": "0.0065117152"
+        },
+        {
+            "word": "product",
+            "prob": "0.0064261113"
+        },
+        {
+            "word": "xyz",
+            "prob": "0.0054901876"
+        }
+    ],
+    [
+        {
+            "word": "sigma_",
+            "prob": "0.016175516"
+        },
+        {
+            "word": "turnover",
+            "prob": "0.011521941"
+        },
+        {
+            "word": "digit",
+            "prob": "0.0095105255"
+        },
+        {
+            "word": "ldots",
+            "prob": "0.009356165"
+        },
+        {
+            "word": "coordinate",
+            "prob": "0.007819011"
+        },
+        {
+            "word": "decimal",
+            "prob": "0.0051880907"
+        },
+        {
+            "word": "tenure",
+            "prob": "0.004900422"
+        },
+        {
+            "word": "underlined",
+            "prob": "0.0038563244"
+        },
+        {
+            "word": "monotone",
+            "prob": "0.0034706912"
+        },
+        {
+            "word": "cue",
+            "prob": "0.0034145517"
+        }
+    ],
+    [
+        {
+            "word": "discounting",
+            "prob": "0.018373327"
+        },
+        {
+            "word": "sigma_a",
+            "prob": "0.012549009"
+        },
+        {
+            "word": "sigma_b",
+            "prob": "0.010034055"
+        },
+        {
+            "word": "r_d",
+            "prob": "0.010005126"
+        },
+        {
+            "word": "commerce",
+            "prob": "0.009965391"
+        },
+        {
+            "word": "hyperbolic",
+            "prob": "0.009852327"
+        },
+        {
+            "word": "exponential",
+            "prob": "0.008859774"
+        },
+        {
+            "word": "wheat",
+            "prob": "0.0077341804"
+        },
+        {
+            "word": "interstate",
+            "prob": "0.007467463"
+        },
+        {
+            "word": "lawn",
+            "prob": "0.0069906292"
+        }
+    ],
+    [
+        {
+            "word": "wto",
+            "prob": "0.01480583"
+        },
+        {
+            "word": "dispute",
+            "prob": "0.013242568"
+        },
+        {
+            "word": "retaliation",
+            "prob": "0.012576489"
+        },
+        {
+            "word": "certainty",
+            "prob": "0.011308861"
+        },
+        {
+            "word": "concession",
+            "prob": "0.0064858445"
+        },
+        {
+            "word": "defendant",
+            "prob": "0.0058696293"
+        },
+        {
+            "word": "resolution",
+            "prob": "0.00532893"
+        },
+        {
+            "word": "illustrate",
+            "prob": "0.004688201"
+        },
+        {
+            "word": "nuance",
+            "prob": "0.0039445427"
+        },
+        {
+            "word": "panel",
+            "prob": "0.0036086508"
+        }
+    ],
+    [
+        {
+            "word": "df",
+            "prob": "0.042682055"
+        },
+        {
+            "word": "np",
+            "prob": "0.023248194"
+        },
+        {
+            "word": "h_t",
+            "prob": "0.020504763"
+        },
+        {
+            "word": "missing",
+            "prob": "0.016333165"
+        },
+        {
+            "word": "print",
+            "prob": "0.013376908"
+        },
+        {
+            "word": "vegan",
+            "prob": "0.011392698"
+        },
+        {
+            "word": "data",
+            "prob": "0.011097069"
+        },
+        {
+            "word": "manufacturing",
+            "prob": "0.011086526"
+        },
+        {
+            "word": "food",
+            "prob": "0.01017434"
+        },
+        {
+            "word": "post",
+            "prob": "0.009568362"
+        }
+    ],
+    [
+        {
+            "word": "airbnb",
+            "prob": "0.031118887"
+        },
+        {
+            "word": "price",
+            "prob": "0.023280576"
+        },
+        {
+            "word": "hotel",
+            "prob": "0.022414071"
+        },
+        {
+            "word": "rental",
+            "prob": "0.015586184"
+        },
+        {
+            "word": "increase",
+            "prob": "0.0148185585"
+        },
+        {
+            "word": "rent",
+            "prob": "0.014469897"
+        },
+        {
+            "word": "city",
+            "prob": "0.01273846"
+        },
+        {
+            "word": "elastic",
+            "prob": "0.010635786"
+        },
+        {
+            "word": "revenue",
+            "prob": "0.0103461575"
+        },
+        {
+            "word": "housing",
+            "prob": "0.00940727"
+        }
+    ],
+    [
+        {
+            "word": "pi",
+            "prob": "0.0428081"
+        },
+        {
+            "word": "coffee",
+            "prob": "0.027597059"
+        },
+        {
+            "word": "sugar",
+            "prob": "0.01750089"
+        },
+        {
+            "word": "price",
+            "prob": "0.0119419815"
+        },
+        {
+            "word": "s_w",
+            "prob": "0.011287154"
+        },
+        {
+            "word": "unit",
+            "prob": "0.008637325"
+        },
+        {
+            "word": "share",
+            "prob": "0.0077255764"
+        },
+        {
+            "word": "broker",
+            "prob": "0.0071415314"
+        },
+        {
+            "word": "one",
+            "prob": "0.006843974"
+        },
+        {
+            "word": "graphic",
+            "prob": "0.0065623196"
+        }
+    ],
+    [
+        {
+            "word": "http",
+            "prob": "0.050190765"
+        },
+        {
+            "word": "www",
+            "prob": "0.035512272"
+        },
+        {
+            "word": "textbf",
+            "prob": "0.028454652"
+        },
+        {
+            "word": "com",
+            "prob": "0.028173776"
+        },
+        {
+            "word": "banana",
+            "prob": "0.022445016"
+        },
+        {
+            "word": "pdf",
+            "prob": "0.014186421"
+        },
+        {
+            "word": "water",
+            "prob": "0.0101388255"
+        },
+        {
+            "word": "apartment",
+            "prob": "0.008843015"
+        },
+        {
+            "word": "org",
+            "prob": "0.008551617"
+        },
+        {
+            "word": "price",
+            "prob": "0.007935073"
+        }
+    ],
+    [
+        {
+            "word": "index",
+            "prob": "0.012855763"
+        },
+        {
+            "word": "hierarchy",
+            "prob": "0.008790505"
+        },
+        {
+            "word": "ingredient",
+            "prob": "0.0050083986"
+        },
+        {
+            "word": "compact",
+            "prob": "0.0035974095"
+        },
+        {
+            "word": "assuming",
+            "prob": "0.0034766824"
+        },
+        {
+            "word": "product",
+            "prob": "0.0033416152"
+        },
+        {
+            "word": "way",
+            "prob": "0.0019866107"
+        },
+        {
+            "word": "data",
+            "prob": "0.0019650795"
+        },
+        {
+            "word": "excel",
+            "prob": "0.0019644585"
+        },
+        {
+            "word": "db",
+            "prob": "0.0018955347"
+        }
+    ],
+    [
+        {
+            "word": "box",
+            "prob": "0.047705468"
+        },
+        {
+            "word": "player",
+            "prob": "0.029790007"
+        },
+        {
+            "word": "machine",
+            "prob": "0.022007564"
+        },
+        {
+            "word": "z_",
+            "prob": "0.017929442"
+        },
+        {
+            "word": "joe",
+            "prob": "0.010175048"
+        },
+        {
+            "word": "s_j",
+            "prob": "0.01008716"
+        },
+        {
+            "word": "s_i",
+            "prob": "0.0098799495"
+        },
+        {
+            "word": "choose",
+            "prob": "0.008545011"
+        },
+        {
+            "word": "offer",
+            "prob": "0.00852638"
+        },
+        {
+            "word": "envy",
+            "prob": "0.008455064"
+        }
+    ],
+    [
+        {
+            "word": "price",
+            "prob": "0.012417192"
+        },
+        {
+            "word": "would",
+            "prob": "0.00993124"
+        },
+        {
+            "word": "good",
+            "prob": "0.008477673"
+        },
+        {
+            "word": "cost",
+            "prob": "0.008082016"
+        },
+        {
+            "word": "one",
+            "prob": "0.00791009"
+        },
+        {
+            "word": "market",
+            "prob": "0.006846751"
+        },
+        {
+            "word": "model",
+            "prob": "0.0050454005"
+        },
+        {
+            "word": "example",
+            "prob": "0.0049201176"
+        },
+        {
+            "word": "also",
+            "prob": "0.0048811147"
+        },
+        {
+            "word": "question",
+            "prob": "0.004629268"
+        }
+    ],
+    [
+        {
+            "word": "price",
+            "prob": "0.020778578"
+        },
+        {
+            "word": "producer",
+            "prob": "0.016952982"
+        },
+        {
+            "word": "risk",
+            "prob": "0.016632836"
+        },
+        {
+            "word": "would",
+            "prob": "0.012032881"
+        },
+        {
+            "word": "utility",
+            "prob": "0.011924668"
+        },
+        {
+            "word": "unit",
+            "prob": "0.010948184"
+        },
+        {
+            "word": "demand",
+            "prob": "0.010219006"
+        },
+        {
+            "word": "sell",
+            "prob": "0.009852333"
+        },
+        {
+            "word": "dollar",
+            "prob": "0.009568018"
+        },
+        {
+            "word": "p_",
+            "prob": "0.008791035"
+        }
+    ],
+    [
+        {
+            "word": "br",
+            "prob": "0.031200659"
+        },
+        {
+            "word": "leftward",
+            "prob": "0.011332652"
+        },
+        {
+            "word": "israel",
+            "prob": "0.0074996054"
+        },
+        {
+            "word": "shift",
+            "prob": "0.0055500786"
+        },
+        {
+            "word": "lm",
+            "prob": "0.005327336"
+        },
+        {
+            "word": "cyclic",
+            "prob": "0.0052679414"
+        },
+        {
+            "word": "asian",
+            "prob": "0.004795301"
+        },
+        {
+            "word": "rer",
+            "prob": "0.004611932"
+        },
+        {
+            "word": "balassa",
+            "prob": "0.004202929"
+        },
+        {
+            "word": "xx",
+            "prob": "0.0037633001"
+        }
+    ],
+    [
+        {
+            "word": "capitalism",
+            "prob": "0.049716182"
+        },
+        {
+            "word": "m_r",
+            "prob": "0.013064181"
+        },
+        {
+            "word": "wood",
+            "prob": "0.01243771"
+        },
+        {
+            "word": "merchant",
+            "prob": "0.011105363"
+        },
+        {
+            "word": "rice",
+            "prob": "0.009619279"
+        },
+        {
+            "word": "ring",
+            "prob": "0.006850725"
+        },
+        {
+            "word": "ph",
+            "prob": "0.006511429"
+        },
+        {
+            "word": "corporate",
+            "prob": "0.0058530797"
+        },
+        {
+            "word": "argues",
+            "prob": "0.004933966"
+        },
+        {
+            "word": "peasant",
+            "prob": "0.0043806997"
+        }
+    ],
+    [
+        {
+            "word": "treatment",
+            "prob": "0.025289373"
+        },
+        {
+            "word": "service",
+            "prob": "0.022426631"
+        },
+        {
+            "word": "member",
+            "prob": "0.019885223"
+        },
+        {
+            "word": "article",
+            "prob": "0.0153692905"
+        },
+        {
+            "word": "gat",
+            "prob": "0.013555905"
+        },
+        {
+            "word": "commitment",
+            "prob": "0.013042792"
+        },
+        {
+            "word": "limitation",
+            "prob": "0.0099014575"
+        },
+        {
+            "word": "ijt",
+            "prob": "0.009027157"
+        },
+        {
+            "word": "mfn",
+            "prob": "0.0088139195"
+        },
+        {
+            "word": "supplier",
+            "prob": "0.0080716275"
+        }
+    ],
+    [
+        {
+            "word": "car",
+            "prob": "0.036790162"
+        },
+        {
+            "word": "pool",
+            "prob": "0.02210508"
+        },
+        {
+            "word": "fish",
+            "prob": "0.014743264"
+        },
+        {
+            "word": "common",
+            "prob": "0.013866593"
+        },
+        {
+            "word": "boot",
+            "prob": "0.012120962"
+        },
+        {
+            "word": "cheap",
+            "prob": "0.009977985"
+        },
+        {
+            "word": "durable",
+            "prob": "0.009027939"
+        },
+        {
+            "word": "rival",
+            "prob": "0.0066547794"
+        },
+        {
+            "word": "couple",
+            "prob": "0.0066121817"
+        },
+        {
+            "word": "gdp_",
+            "prob": "0.006317628"
+        }
+    ],
+    [
+        {
+            "word": "de",
+            "prob": "0.023146553"
+        },
+        {
+            "word": "dealer",
+            "prob": "0.017851934"
+        },
+        {
+            "word": "primary",
+            "prob": "0.015252168"
+        },
+        {
+            "word": "york",
+            "prob": "0.009757047"
+        },
+        {
+            "word": "n_u",
+            "prob": "0.007186847"
+        },
+        {
+            "word": "transformation",
+            "prob": "0.0061057555"
+        },
+        {
+            "word": "la",
+            "prob": "0.005590541"
+        },
+        {
+            "word": "allowed",
+            "prob": "0.0046509802"
+        },
+        {
+            "word": "participate",
+            "prob": "0.0046308707"
+        },
+        {
+            "word": "landowner",
+            "prob": "0.004607388"
+        }
+    ],
+    [
+        {
+            "word": "w_l",
+            "prob": "0.03203481"
+        },
+        {
+            "word": "rho",
+            "prob": "0.027956799"
+        },
+        {
+            "word": "manager",
+            "prob": "0.027617754"
+        },
+        {
+            "word": "t_l",
+            "prob": "0.026999231"
+        },
+        {
+            "word": "t_m",
+            "prob": "0.026633529"
+        },
+        {
+            "word": "w_m",
+            "prob": "0.026034016"
+        },
+        {
+            "word": "company",
+            "prob": "0.014611074"
+        },
+        {
+            "word": "gt",
+            "prob": "0.0105145"
+        },
+        {
+            "word": "varepsilon_t",
+            "prob": "0.0093234945"
+        },
+        {
+            "word": "b_x",
+            "prob": "0.00836341"
+        }
+    ],
+    [
+        {
+            "word": "coalition",
+            "prob": "0.024535969"
+        },
+        {
+            "word": "stagnation",
+            "prob": "0.022651037"
+        },
+        {
+            "word": "secular",
+            "prob": "0.02210513"
+        },
+        {
+            "word": "core",
+            "prob": "0.02087943"
+        },
+        {
+            "word": "natural",
+            "prob": "0.0125191"
+        },
+        {
+            "word": "steady",
+            "prob": "0.011939438"
+        },
+        {
+            "word": "hart",
+            "prob": "0.009006452"
+        },
+        {
+            "word": "ownership",
+            "prob": "0.008927979"
+        },
+        {
+            "word": "cap",
+            "prob": "0.006603117"
+        },
+        {
+            "word": "launched",
+            "prob": "0.00627335"
+        }
+    ],
+    [
+        {
+            "word": "frac",
+            "prob": "0.0394929"
+        },
+        {
+            "word": "function",
+            "prob": "0.018453324"
+        },
+        {
+            "word": "x_",
+            "prob": "0.017903155"
+        },
+        {
+            "word": "partial",
+            "prob": "0.014692032"
+        },
+        {
+            "word": "p_",
+            "prob": "0.010425852"
+        },
+        {
+            "word": "beta",
+            "prob": "0.010171804"
+        },
+        {
+            "word": "equation",
+            "prob": "0.01004217"
+        },
+        {
+            "word": "right",
+            "prob": "0.010033812"
+        },
+        {
+            "word": "alpha",
+            "prob": "0.0097296955"
+        },
+        {
+            "word": "left",
+            "prob": "0.009669886"
+        }
+    ],
+    [
+        {
+            "word": "fuel",
+            "prob": "0.04468519"
+        },
+        {
+            "word": "airline",
+            "prob": "0.013101752"
+        },
+        {
+            "word": "truck",
+            "prob": "0.010897182"
+        },
+        {
+            "word": "plane",
+            "prob": "0.009423426"
+        },
+        {
+            "word": "flight",
+            "prob": "0.009407039"
+        },
+        {
+            "word": "passenger",
+            "prob": "0.0057775723"
+        },
+        {
+            "word": "price",
+            "prob": "0.0056946017"
+        },
+        {
+            "word": "airport",
+            "prob": "0.0049478547"
+        },
+        {
+            "word": "burn",
+            "prob": "0.0049291705"
+        },
+        {
+            "word": "macro",
+            "prob": "0.0037270088"
+        }
+    ],
+    [
+        {
+            "word": "circ",
+            "prob": "0.01753679"
+        },
+        {
+            "word": "xt",
+            "prob": "0.009508922"
+        },
+        {
+            "word": "x_a",
+            "prob": "0.008908704"
+        },
+        {
+            "word": "x_n",
+            "prob": "0.008709205"
+        },
+        {
+            "word": "excludable",
+            "prob": "0.0050914814"
+        },
+        {
+            "word": "t_n",
+            "prob": "0.0050674616"
+        },
+        {
+            "word": "andrew",
+            "prob": "0.0045010643"
+        },
+        {
+            "word": "t_a",
+            "prob": "0.004317575"
+        },
+        {
+            "word": "fish",
+            "prob": "0.0038408989"
+        },
+        {
+            "word": "pk",
+            "prob": "0.0035351547"
+        }
+    ],
+    [
+        {
+            "word": "space",
+            "prob": "0.034418903"
+        },
+        {
+            "word": "theta_i",
+            "prob": "0.02992412"
+        },
+        {
+            "word": "beta",
+            "prob": "0.024493389"
+        },
+        {
+            "word": "m_zx",
+            "prob": "0.021054756"
+        },
+        {
+            "word": "alpha_k",
+            "prob": "0.017560963"
+        },
+        {
+            "word": "m_zu",
+            "prob": "0.017342787"
+        },
+        {
+            "word": "ex",
+            "prob": "0.011601943"
+        },
+        {
+            "word": "s_t",
+            "prob": "0.010620628"
+        },
+        {
+            "word": "ir",
+            "prob": "0.0104744965"
+        },
+        {
+            "word": "location",
+            "prob": "0.00966697"
+        }
+    ],
+    [
+        {
+            "word": "oilinos",
+            "prob": "0.0057748966"
+        },
+        {
+            "word": "changer",
+            "prob": "0.0025294265"
+        },
+        {
+            "word": "tonne",
+            "prob": "0.0016090578"
+        },
+        {
+            "word": "would",
+            "prob": "0.0010197987"
+        },
+        {
+            "word": "inflation",
+            "prob": "0.0006614325"
+        },
+        {
+            "word": "rate",
+            "prob": "0.00054903986"
+        },
+        {
+            "word": "example",
+            "prob": "0.0005314837"
+        },
+        {
+            "word": "delta",
+            "prob": "0.0005250187"
+        },
+        {
+            "word": "good",
+            "prob": "0.00045721576"
+        },
+        {
+            "word": "growth",
+            "prob": "0.00042269094"
+        }
+    ],
+    [
+        {
+            "word": "s_i",
+            "prob": "0.044345416"
+        },
+        {
+            "word": "cheese",
+            "prob": "0.02700323"
+        },
+        {
+            "word": "sigma_i",
+            "prob": "0.013614144"
+        },
+        {
+            "word": "s_",
+            "prob": "0.008900394"
+        },
+        {
+            "word": "lambda_i",
+            "prob": "0.007365509"
+        },
+        {
+            "word": "sandwich",
+            "prob": "0.0068690632"
+        },
+        {
+            "word": "eating",
+            "prob": "0.004378117"
+        },
+        {
+            "word": "pi",
+            "prob": "0.0037074874"
+        },
+        {
+            "word": "p_",
+            "prob": "0.0033509447"
+        },
+        {
+            "word": "cheaper",
+            "prob": "0.002621313"
+        }
+    ],
+    [
+        {
+            "word": "dealer",
+            "prob": "0.020917667"
+        },
+        {
+            "word": "tau_",
+            "prob": "0.011554433"
+        },
+        {
+            "word": "gambling",
+            "prob": "0.011073386"
+        },
+        {
+            "word": "db",
+            "prob": "0.008517731"
+        },
+        {
+            "word": "\u03b8_",
+            "prob": "0.008207315"
+        },
+        {
+            "word": "rf",
+            "prob": "0.007989746"
+        },
+        {
+            "word": "tractor",
+            "prob": "0.0067121573"
+        },
+        {
+            "word": "da",
+            "prob": "0.006647325"
+        },
+        {
+            "word": "h_u",
+            "prob": "0.0056615584"
+        },
+        {
+            "word": "car",
+            "prob": "0.004832694"
+        }
+    ],
+    [
+        {
+            "word": "p_x",
+            "prob": "0.12958968"
+        },
+        {
+            "word": "p_y",
+            "prob": "0.10887751"
+        },
+        {
+            "word": "l_",
+            "prob": "0.025032446"
+        },
+        {
+            "word": "r",
+            "prob": "0.024098465"
+        },
+        {
+            "word": "frac",
+            "prob": "0.014423913"
+        },
+        {
+            "word": "refugee",
+            "prob": "0.01103257"
+        },
+        {
+            "word": "c",
+            "prob": "0.009264811"
+        },
+        {
+            "word": "p_z",
+            "prob": "0.007937366"
+        },
+        {
+            "word": "change",
+            "prob": "0.007462166"
+        },
+        {
+            "word": "p_xx",
+            "prob": "0.00739984"
+        }
+    ],
+    [
+        {
+            "word": "token",
+            "prob": "0.038468283"
+        },
+        {
+            "word": "z_t",
+            "prob": "0.026343178"
+        },
+        {
+            "word": "q_t",
+            "prob": "0.023958175"
+        },
+        {
+            "word": "buy",
+            "prob": "0.01991641"
+        },
+        {
+            "word": "meme",
+            "prob": "0.017205268"
+        },
+        {
+            "word": "sell",
+            "prob": "0.016787264"
+        },
+        {
+            "word": "curve",
+            "prob": "0.0139375925"
+        },
+        {
+            "word": "\u03bb_",
+            "prob": "0.012444539"
+        },
+        {
+            "word": "enthusiast",
+            "prob": "0.010689124"
+        },
+        {
+            "word": "sa",
+            "prob": "0.008033171"
+        }
+    ],
+    [
+        {
+            "word": "seed",
+            "prob": "0.027321294"
+        },
+        {
+            "word": "framing",
+            "prob": "0.018550295"
+        },
+        {
+            "word": "chance",
+            "prob": "0.01695223"
+        },
+        {
+            "word": "richer",
+            "prob": "0.013117441"
+        },
+        {
+            "word": "certain",
+            "prob": "0.011208416"
+        },
+        {
+            "word": "choice",
+            "prob": "0.008486092"
+        },
+        {
+            "word": "thaler",
+            "prob": "0.007495961"
+        },
+        {
+            "word": "random",
+            "prob": "0.0071788654"
+        },
+        {
+            "word": "today",
+            "prob": "0.006962583"
+        },
+        {
+            "word": "imagine",
+            "prob": "0.0069475174"
+        }
+    ],
+    [
+        {
+            "word": "ethical",
+            "prob": "0.009957763"
+        },
+        {
+            "word": "hospital",
+            "prob": "0.009476191"
+        },
+        {
+            "word": "charity",
+            "prob": "0.00814936"
+        },
+        {
+            "word": "affordable",
+            "prob": "0.0068973484"
+        },
+        {
+            "word": "patient",
+            "prob": "0.0067636105"
+        },
+        {
+            "word": "visit",
+            "prob": "0.0058306823"
+        },
+        {
+            "word": "colony",
+            "prob": "0.005708333"
+        },
+        {
+            "word": "organization",
+            "prob": "0.0055660116"
+        },
+        {
+            "word": "coordination",
+            "prob": "0.005397762"
+        },
+        {
+            "word": "care",
+            "prob": "0.0049458975"
+        }
+    ],
+    [
+        {
+            "word": "sargent",
+            "prob": "0.012479566"
+        },
+        {
+            "word": "alpha_",
+            "prob": "0.009985435"
+        },
+        {
+            "word": "hansen",
+            "prob": "0.00826685"
+        },
+        {
+            "word": "lars",
+            "prob": "0.008121086"
+        },
+        {
+            "word": "robustness",
+            "prob": "0.007082088"
+        },
+        {
+            "word": "thomas",
+            "prob": "0.0067739305"
+        },
+        {
+            "word": "gun",
+            "prob": "0.006411995"
+        },
+        {
+            "word": "delta",
+            "prob": "0.006111097"
+        },
+        {
+            "word": "cesdata",
+            "prob": "0.00561187"
+        },
+        {
+            "word": "de",
+            "prob": "0.004263667"
+        }
+    ],
+    [
+        {
+            "word": "demanded",
+            "prob": "0.03062942"
+        },
+        {
+            "word": "quantity",
+            "prob": "0.029348467"
+        },
+        {
+            "word": "dp",
+            "prob": "0.02337794"
+        },
+        {
+            "word": "price",
+            "prob": "0.018718073"
+        },
+        {
+            "word": "dq",
+            "prob": "0.017403245"
+        },
+        {
+            "word": "change",
+            "prob": "0.016193269"
+        },
+        {
+            "word": "elasticity",
+            "prob": "0.012482881"
+        },
+        {
+            "word": "demand",
+            "prob": "0.01222693"
+        },
+        {
+            "word": "marshall",
+            "prob": "0.010386584"
+        },
+        {
+            "word": "inelastic",
+            "prob": "0.010204254"
+        }
+    ],
+    [
+        {
+            "word": "remittance",
+            "prob": "0.016490718"
+        },
+        {
+            "word": "exclude",
+            "prob": "0.0140424585"
+        },
+        {
+            "word": "bad",
+            "prob": "0.0076558837"
+        },
+        {
+            "word": "individual",
+            "prob": "0.006161746"
+        },
+        {
+            "word": "unable",
+            "prob": "0.00550627"
+        },
+        {
+            "word": "noise",
+            "prob": "0.005046609"
+        },
+        {
+            "word": "com",
+            "prob": "0.004687529"
+        },
+        {
+            "word": "w_i",
+            "prob": "0.004566318"
+        },
+        {
+            "word": "excludability",
+            "prob": "0.0045283446"
+        },
+        {
+            "word": "public",
+            "prob": "0.0044275112"
+        }
+    ],
+    [
+        {
+            "word": "police",
+            "prob": "0.01467978"
+        },
+        {
+            "word": "insurance",
+            "prob": "0.012806181"
+        },
+        {
+            "word": "airport",
+            "prob": "0.01166775"
+        },
+        {
+            "word": "capacity",
+            "prob": "0.010460814"
+        },
+        {
+            "word": "forecast",
+            "prob": "0.009647813"
+        },
+        {
+            "word": "scenario",
+            "prob": "0.008667089"
+        },
+        {
+            "word": "theft",
+            "prob": "0.007915866"
+        },
+        {
+            "word": "sick",
+            "prob": "0.0075469706"
+        },
+        {
+            "word": "reallocation",
+            "prob": "0.0073845903"
+        },
+        {
+            "word": "power",
+            "prob": "0.0073185363"
+        }
+    ],
+    [
+        {
+            "word": "glass",
+            "prob": "0.014460134"
+        },
+        {
+            "word": "bottle",
+            "prob": "0.008568319"
+        },
+        {
+            "word": "fund",
+            "prob": "0.006232183"
+        },
+        {
+            "word": "manager",
+            "prob": "0.005172663"
+        },
+        {
+            "word": "kahneman",
+            "prob": "0.0049402537"
+        },
+        {
+            "word": "daniel",
+            "prob": "0.0046870564"
+        },
+        {
+            "word": "typical",
+            "prob": "0.0045326375"
+        },
+        {
+            "word": "etf",
+            "prob": "0.004493873"
+        },
+        {
+            "word": "helping",
+            "prob": "0.0038374153"
+        },
+        {
+            "word": "recycling",
+            "prob": "0.0036772443"
+        }
+    ],
+    [
+        {
+            "word": "p_n",
+            "prob": "0.016500143"
+        },
+        {
+            "word": "cdots",
+            "prob": "0.012453966"
+        },
+        {
+            "word": "faire",
+            "prob": "0.010416948"
+        },
+        {
+            "word": "laissez",
+            "prob": "0.010407716"
+        },
+        {
+            "word": "p_",
+            "prob": "0.008217576"
+        },
+        {
+            "word": "ideal",
+            "prob": "0.007680267"
+        },
+        {
+            "word": "dc",
+            "prob": "0.0064663347"
+        },
+        {
+            "word": "woman",
+            "prob": "0.005339097"
+        },
+        {
+            "word": "era",
+            "prob": "0.0047935327"
+        },
+        {
+            "word": "see",
+            "prob": "0.0042534536"
+        }
+    ],
+    [
+        {
+            "word": "gen",
+            "prob": "0.024942297"
+        },
+        {
+            "word": "emp",
+            "prob": "0.021689212"
+        },
+        {
+            "word": "sd",
+            "prob": "0.013731263"
+        },
+        {
+            "word": "h_",
+            "prob": "0.012579899"
+        },
+        {
+            "word": "active",
+            "prob": "0.008903179"
+        },
+        {
+            "word": "usury",
+            "prob": "0.008352223"
+        },
+        {
+            "word": "re",
+            "prob": "0.007498282"
+        },
+        {
+            "word": "capitalism",
+            "prob": "0.0071996492"
+        },
+        {
+            "word": "alternative",
+            "prob": "0.006836551"
+        },
+        {
+            "word": "null",
+            "prob": "0.0068320665"
+        }
+    ],
+    [
+        {
+            "word": "interval",
+            "prob": "0.013191147"
+        },
+        {
+            "word": "non",
+            "prob": "0.011418357"
+        },
+        {
+            "word": "song",
+            "prob": "0.009818912"
+        },
+        {
+            "word": "succsim",
+            "prob": "0.008894315"
+        },
+        {
+            "word": "lagged",
+            "prob": "0.007768213"
+        },
+        {
+            "word": "aggregator",
+            "prob": "0.0068738414"
+        },
+        {
+            "word": "rivalry",
+            "prob": "0.0068659843"
+        },
+        {
+            "word": "riding",
+            "prob": "0.00671675"
+        },
+        {
+            "word": "offshore",
+            "prob": "0.0058664517"
+        },
+        {
+            "word": "excludability",
+            "prob": "0.005553583"
+        }
+    ],
+    [
+        {
+            "word": "utility",
+            "prob": "0.15407337"
+        },
+        {
+            "word": "function",
+            "prob": "0.049387883"
+        },
+        {
+            "word": "preference",
+            "prob": "0.045441598"
+        },
+        {
+            "word": "individual",
+            "prob": "0.02028949"
+        },
+        {
+            "word": "choice",
+            "prob": "0.017135564"
+        },
+        {
+            "word": "axiom",
+            "prob": "0.01650572"
+        },
+        {
+            "word": "ordinal",
+            "prob": "0.009646063"
+        },
+        {
+            "word": "allocation",
+            "prob": "0.009373504"
+        },
+        {
+            "word": "expected",
+            "prob": "0.00916573"
+        },
+        {
+            "word": "m_",
+            "prob": "0.00900851"
+        }
+    ],
+    [
+        {
+            "word": "col",
+            "prob": "0.019516338"
+        },
+        {
+            "word": "weighting",
+            "prob": "0.010632296"
+        },
+        {
+            "word": "wage",
+            "prob": "0.008120021"
+        },
+        {
+            "word": "state",
+            "prob": "0.008118441"
+        },
+        {
+            "word": "mw",
+            "prob": "0.007956948"
+        },
+        {
+            "word": "iota",
+            "prob": "0.0075278324"
+        },
+        {
+            "word": "r_m",
+            "prob": "0.00639689"
+        },
+        {
+            "word": "singer",
+            "prob": "0.006280494"
+        },
+        {
+            "word": "humane",
+            "prob": "0.0049927398"
+        },
+        {
+            "word": "aw",
+            "prob": "0.0049884967"
+        }
+    ],
+    [
+        {
+            "word": "announcement",
+            "prob": "0.018093942"
+        },
+        {
+            "word": "chapter",
+            "prob": "0.010268996"
+        },
+        {
+            "word": "ic",
+            "prob": "0.008561716"
+        },
+        {
+            "word": "state",
+            "prob": "0.008333474"
+        },
+        {
+            "word": "realized",
+            "prob": "0.0077474527"
+        },
+        {
+            "word": "mwg",
+            "prob": "0.00607193"
+        },
+        {
+            "word": "kehoe",
+            "prob": "0.005383523"
+        },
+        {
+            "word": "agent",
+            "prob": "0.00529119"
+        },
+        {
+            "word": "compatibility",
+            "prob": "0.0043656905"
+        },
+        {
+            "word": "incentive",
+            "prob": "0.0034434912"
+        }
+    ],
+    [
+        {
+            "word": "a_",
+            "prob": "0.3021639"
+        },
+        {
+            "word": "epsilon",
+            "prob": "0.055054415"
+        },
+        {
+            "word": "u_",
+            "prob": "0.013729824"
+        },
+        {
+            "word": "cdot",
+            "prob": "0.008343639"
+        },
+        {
+            "word": "e_",
+            "prob": "0.008055998"
+        },
+        {
+            "word": "ilo",
+            "prob": "0.007774016"
+        },
+        {
+            "word": "big",
+            "prob": "0.007563297"
+        },
+        {
+            "word": "case",
+            "prob": "0.0075281393"
+        },
+        {
+            "word": "time",
+            "prob": "0.0070965895"
+        },
+        {
+            "word": "block",
+            "prob": "0.00705953"
+        }
+    ],
+    [
+        {
+            "word": "meat",
+            "prob": "0.0401729"
+        },
+        {
+            "word": "p_xx",
+            "prob": "0.016381707"
+        },
+        {
+            "word": "p_yy",
+            "prob": "0.010332043"
+        },
+        {
+            "word": "get",
+            "prob": "0.0036717635"
+        },
+        {
+            "word": "side",
+            "prob": "0.0033257562"
+        },
+        {
+            "word": "add",
+            "prob": "0.0032887831"
+        },
+        {
+            "word": "industrial",
+            "prob": "0.0026893402"
+        },
+        {
+            "word": "organic",
+            "prob": "0.0024813178"
+        },
+        {
+            "word": "insensitive",
+            "prob": "0.002397905"
+        },
+        {
+            "word": "ration",
+            "prob": "0.0020479225"
+        }
+    ],
+    [
+        {
+            "word": "hat",
+            "prob": "0.03194347"
+        },
+        {
+            "word": "cohort",
+            "prob": "0.013657774"
+        },
+        {
+            "word": "pd",
+            "prob": "0.0118318135"
+        },
+        {
+            "word": "red",
+            "prob": "0.0103633795"
+        },
+        {
+            "word": "g_x",
+            "prob": "0.008984754"
+        },
+        {
+            "word": "pf",
+            "prob": "0.00837007"
+        },
+        {
+            "word": "alpha_",
+            "prob": "0.008187629"
+        },
+        {
+            "word": "ytm_n",
+            "prob": "0.007334206"
+        },
+        {
+            "word": "security",
+            "prob": "0.0070301453"
+        },
+        {
+            "word": "steven",
+            "prob": "0.0064655086"
+        }
+    ],
+    [
+        {
+            "word": "risk",
+            "prob": "0.02027527"
+        },
+        {
+            "word": "xsp",
+            "prob": "0.015616984"
+        },
+        {
+            "word": "cad",
+            "prob": "0.013541255"
+        },
+        {
+            "word": "premia",
+            "prob": "0.009685628"
+        },
+        {
+            "word": "recycling",
+            "prob": "0.008341593"
+        },
+        {
+            "word": "hedging",
+            "prob": "0.007883183"
+        },
+        {
+            "word": "manager",
+            "prob": "0.006878427"
+        },
+        {
+            "word": "preferential",
+            "prob": "0.005766491"
+        },
+        {
+            "word": "usd",
+            "prob": "0.005483444"
+        },
+        {
+            "word": "personal",
+            "prob": "0.0054734624"
+        }
+    ],
+    [
+        {
+            "word": "id",
+            "prob": "0.038964424"
+        },
+        {
+            "word": "xx",
+            "prob": "0.032886297"
+        },
+        {
+            "word": "df",
+            "prob": "0.03232314"
+        },
+        {
+            "word": "al",
+            "prob": "0.032108728"
+        },
+        {
+            "word": "year",
+            "prob": "0.01951273"
+        },
+        {
+            "word": "lt",
+            "prob": "0.011305095"
+        },
+        {
+            "word": "state",
+            "prob": "0.009300621"
+        },
+        {
+            "word": "paste",
+            "prob": "0.0072333436"
+        },
+        {
+            "word": "xtreg",
+            "prob": "0.0065450594"
+        },
+        {
+            "word": "merge",
+            "prob": "0.0061977473"
+        }
+    ],
+    [
+        {
+            "word": "q_",
+            "prob": "0.342271"
+        },
+        {
+            "word": "firm",
+            "prob": "0.056486737"
+        },
+        {
+            "word": "q_i",
+            "prob": "0.024352463"
+        },
+        {
+            "word": "pi_",
+            "prob": "0.012448097"
+        },
+        {
+            "word": "p_",
+            "prob": "0.011423356"
+        },
+        {
+            "word": "response",
+            "prob": "0.010292742"
+        },
+        {
+            "word": "best",
+            "prob": "0.00929283"
+        },
+        {
+            "word": "profit",
+            "prob": "0.008295205"
+        },
+        {
+            "word": "dq_",
+            "prob": "0.005946995"
+        },
+        {
+            "word": "cournot",
+            "prob": "0.0059064105"
+        }
+    ],
+    [
+        {
+            "word": "bike",
+            "prob": "0.021235881"
+        },
+        {
+            "word": "composite",
+            "prob": "0.008863477"
+        },
+        {
+            "word": "j_",
+            "prob": "0.008358287"
+        },
+        {
+            "word": "neighborhood",
+            "prob": "0.0067835907"
+        },
+        {
+            "word": "tenant",
+            "prob": "0.0065931208"
+        },
+        {
+            "word": "province",
+            "prob": "0.0055995625"
+        },
+        {
+            "word": "lot",
+            "prob": "0.0048389216"
+        },
+        {
+            "word": "sharing",
+            "prob": "0.004400322"
+        },
+        {
+            "word": "spread",
+            "prob": "0.003988996"
+        },
+        {
+            "word": "gentrification",
+            "prob": "0.0035112458"
+        }
+    ],
+    [
+        {
+            "word": "voting",
+            "prob": "0.01935599"
+        },
+        {
+            "word": "n_l",
+            "prob": "0.018757025"
+        },
+        {
+            "word": "q_l",
+            "prob": "0.016123464"
+        },
+        {
+            "word": "q_n",
+            "prob": "0.014544649"
+        },
+        {
+            "word": "c_n",
+            "prob": "0.013473931"
+        },
+        {
+            "word": "n_n",
+            "prob": "0.01343481"
+        },
+        {
+            "word": "clarke",
+            "prob": "0.008196606"
+        },
+        {
+            "word": "w_h",
+            "prob": "0.008102635"
+        },
+        {
+            "word": "product",
+            "prob": "0.0070275893"
+        },
+        {
+            "word": "pi_n",
+            "prob": "0.00672562"
+        }
+    ],
+    [
+        {
+            "word": "power",
+            "prob": "0.015626395"
+        },
+        {
+            "word": "strong",
+            "prob": "0.013431861"
+        },
+        {
+            "word": "d_i",
+            "prob": "0.013296333"
+        },
+        {
+            "word": "calculator",
+            "prob": "0.012912492"
+        },
+        {
+            "word": "plant",
+            "prob": "0.0097803185"
+        },
+        {
+            "word": "mwh",
+            "prob": "0.009246472"
+        },
+        {
+            "word": "nbsp",
+            "prob": "0.008462795"
+        },
+        {
+            "word": "form",
+            "prob": "0.008208041"
+        },
+        {
+            "word": "news",
+            "prob": "0.0077340477"
+        },
+        {
+            "word": "problem",
+            "prob": "0.0075964816"
+        }
+    ],
+    [
+        {
+            "word": "swiss",
+            "prob": "0.034746774"
+        },
+        {
+            "word": "franc",
+            "prob": "0.021511436"
+        },
+        {
+            "word": "pizza",
+            "prob": "0.0143777495"
+        },
+        {
+            "word": "textrm",
+            "prob": "0.009294002"
+        },
+        {
+            "word": "pop",
+            "prob": "0.0077914293"
+        },
+        {
+            "word": "broker",
+            "prob": "0.005909415"
+        },
+        {
+            "word": "watch",
+            "prob": "0.0046471814"
+        },
+        {
+            "word": "russia",
+            "prob": "0.004196784"
+        },
+        {
+            "word": "forex",
+            "prob": "0.003954252"
+        },
+        {
+            "word": "ax_",
+            "prob": "0.0037286952"
+        }
+    ],
+    [
+        {
+            "word": "kkt",
+            "prob": "0.015482573"
+        },
+        {
+            "word": "condition",
+            "prob": "0.013624857"
+        },
+        {
+            "word": "ii",
+            "prob": "0.013503202"
+        },
+        {
+            "word": "maximum",
+            "prob": "0.011648659"
+        },
+        {
+            "word": "global",
+            "prob": "0.011158834"
+        },
+        {
+            "word": "coal",
+            "prob": "0.010922746"
+        },
+        {
+            "word": "qualification",
+            "prob": "0.0082441205"
+        },
+        {
+            "word": "slater",
+            "prob": "0.0076966896"
+        },
+        {
+            "word": "marriage",
+            "prob": "0.0076746815"
+        },
+        {
+            "word": "theorem",
+            "prob": "0.0075779837"
+        }
+    ],
+    [
+        {
+            "word": "ticket",
+            "prob": "0.053007"
+        },
+        {
+            "word": "movie",
+            "prob": "0.036830638"
+        },
+        {
+            "word": "energy",
+            "prob": "0.029444303"
+        },
+        {
+            "word": "eta",
+            "prob": "0.01886518"
+        },
+        {
+            "word": "crop",
+            "prob": "0.018790824"
+        },
+        {
+            "word": "tx",
+            "prob": "0.016343625"
+        },
+        {
+            "word": "kg",
+            "prob": "0.014823812"
+        },
+        {
+            "word": "bread",
+            "prob": "0.014738901"
+        },
+        {
+            "word": "price",
+            "prob": "0.01454098"
+        },
+        {
+            "word": "p_j",
+            "prob": "0.011407525"
+        }
+    ],
+    [
+        {
+            "word": "player",
+            "prob": "0.04355914"
+        },
+        {
+            "word": "game",
+            "prob": "0.039771587"
+        },
+        {
+            "word": "strategy",
+            "prob": "0.030584073"
+        },
+        {
+            "word": "equilibrium",
+            "prob": "0.023298033"
+        },
+        {
+            "word": "payoff",
+            "prob": "0.01387199"
+        },
+        {
+            "word": "probability",
+            "prob": "0.011530771"
+        },
+        {
+            "word": "t_",
+            "prob": "0.011387403"
+        },
+        {
+            "word": "nash",
+            "prob": "0.01083504"
+        },
+        {
+            "word": "set",
+            "prob": "0.009254787"
+        },
+        {
+            "word": "theta",
+            "prob": "0.009243621"
+        }
+    ],
+    [
+        {
+            "word": "tax",
+            "prob": "0.066766836"
+        },
+        {
+            "word": "income",
+            "prob": "0.061419193"
+        },
+        {
+            "word": "wealth",
+            "prob": "0.02515332"
+        },
+        {
+            "word": "saving",
+            "prob": "0.010130271"
+        },
+        {
+            "word": "rate",
+            "prob": "0.009984619"
+        },
+        {
+            "word": "inequality",
+            "prob": "0.009791086"
+        },
+        {
+            "word": "consumption",
+            "prob": "0.009336571"
+        },
+        {
+            "word": "government",
+            "prob": "0.008436394"
+        },
+        {
+            "word": "household",
+            "prob": "0.007918315"
+        },
+        {
+            "word": "increase",
+            "prob": "0.0070211813"
+        }
+    ],
+    [
+        {
+            "word": "homothetic",
+            "prob": "0.030455459"
+        },
+        {
+            "word": "psi_u",
+            "prob": "0.012237469"
+        },
+        {
+            "word": "matched",
+            "prob": "0.009645651"
+        },
+        {
+            "word": "nu",
+            "prob": "0.0066131214"
+        },
+        {
+            "word": "nu_s",
+            "prob": "0.0061383634"
+        },
+        {
+            "word": "twice",
+            "prob": "0.005510349"
+        },
+        {
+            "word": "seller",
+            "prob": "0.0049129645"
+        },
+        {
+            "word": "forall",
+            "prob": "0.004824715"
+        },
+        {
+            "word": "au",
+            "prob": "0.004469337"
+        },
+        {
+            "word": "ay",
+            "prob": "0.0042984565"
+        }
+    ],
+    [
+        {
+            "word": "widetilde",
+            "prob": "0.032798562"
+        },
+        {
+            "word": "sigma",
+            "prob": "0.031693712"
+        },
+        {
+            "word": "trump",
+            "prob": "0.01992901"
+        },
+        {
+            "word": "t_j",
+            "prob": "0.01706733"
+        },
+        {
+            "word": "exposure",
+            "prob": "0.011165933"
+        },
+        {
+            "word": "white",
+            "prob": "0.009870056"
+        },
+        {
+            "word": "certificate",
+            "prob": "0.008673824"
+        },
+        {
+            "word": "align",
+            "prob": "0.007217549"
+        },
+        {
+            "word": "retirement",
+            "prob": "0.006772534"
+        },
+        {
+            "word": "end",
+            "prob": "0.0064021554"
+        }
+    ],
+    [
+        {
+            "word": "c_",
+            "prob": "0.042542487"
+        },
+        {
+            "word": "period",
+            "prob": "0.019809563"
+        },
+        {
+            "word": "m",
+            "prob": "0.017563082"
+        },
+        {
+            "word": "mr",
+            "prob": "0.011578583"
+        },
+        {
+            "word": "consumption",
+            "prob": "0.009228836"
+        },
+        {
+            "word": "youth",
+            "prob": "0.007906699"
+        },
+        {
+            "word": "decline",
+            "prob": "0.0076095336"
+        },
+        {
+            "word": "linguistic",
+            "prob": "0.0067850603"
+        },
+        {
+            "word": "dollar",
+            "prob": "0.0063611227"
+        },
+        {
+            "word": "axis",
+            "prob": "0.0061713518"
+        }
+    ],
+    [
+        {
+            "word": "lifetime",
+            "prob": "0.014702042"
+        },
+        {
+            "word": "unfunded",
+            "prob": "0.012196124"
+        },
+        {
+            "word": "npv",
+            "prob": "0.008812721"
+        },
+        {
+            "word": "technology",
+            "prob": "0.0072725345"
+        },
+        {
+            "word": "sf",
+            "prob": "0.005771696"
+        },
+        {
+            "word": "funded",
+            "prob": "0.0055171764"
+        },
+        {
+            "word": "bedroom",
+            "prob": "0.005201245"
+        },
+        {
+            "word": "arch",
+            "prob": "0.0050505586"
+        },
+        {
+            "word": "relocation",
+            "prob": "0.0047338344"
+        },
+        {
+            "word": "integrate",
+            "prob": "0.004411144"
+        }
+    ],
+    [
+        {
+            "word": "ice",
+            "prob": "0.032300185"
+        },
+        {
+            "word": "cream",
+            "prob": "0.032007366"
+        },
+        {
+            "word": "participant",
+            "prob": "0.02785079"
+        },
+        {
+            "word": "reward",
+            "prob": "0.017351566"
+        },
+        {
+            "word": "tau",
+            "prob": "0.011674335"
+        },
+        {
+            "word": "cereal",
+            "prob": "0.011281867"
+        },
+        {
+            "word": "time",
+            "prob": "0.008722944"
+        },
+        {
+            "word": "rl",
+            "prob": "0.00871924"
+        },
+        {
+            "word": "l_a",
+            "prob": "0.007830569"
+        },
+        {
+            "word": "varepsilon_",
+            "prob": "0.007674709"
+        }
+    ],
+    [
+        {
+            "word": "year",
+            "prob": "0.014093782"
+        },
+        {
+            "word": "gdp",
+            "prob": "0.01340352"
+        },
+        {
+            "word": "value",
+            "prob": "0.011960829"
+        },
+        {
+            "word": "data",
+            "prob": "0.011028254"
+        },
+        {
+            "word": "variable",
+            "prob": "0.008049635"
+        },
+        {
+            "word": "would",
+            "prob": "0.007797418"
+        },
+        {
+            "word": "price",
+            "prob": "0.007273218"
+        },
+        {
+            "word": "capital",
+            "prob": "0.0070413025"
+        },
+        {
+            "word": "time",
+            "prob": "0.0069540953"
+        },
+        {
+            "word": "growth",
+            "prob": "0.0064340197"
+        }
+    ],
+    [
+        {
+            "word": "monthly",
+            "prob": "0.0155165605"
+        },
+        {
+            "word": "percentage",
+            "prob": "0.006144942"
+        },
+        {
+            "word": "f_t",
+            "prob": "0.0050789453"
+        },
+        {
+            "word": "decimal",
+            "prob": "0.0038824924"
+        },
+        {
+            "word": "mdp",
+            "prob": "0.0038787904"
+        },
+        {
+            "word": "formula",
+            "prob": "0.0036121244"
+        },
+        {
+            "word": "zone",
+            "prob": "0.0033698613"
+        },
+        {
+            "word": "target",
+            "prob": "0.003139893"
+        },
+        {
+            "word": "expressed",
+            "prob": "0.0027961126"
+        },
+        {
+            "word": "yearly",
+            "prob": "0.0027807604"
+        }
+    ],
+    [
+        {
+            "word": "would",
+            "prob": "0.0008564936"
+        },
+        {
+            "word": "x_",
+            "prob": "0.00065561745"
+        },
+        {
+            "word": "value",
+            "prob": "0.00064833066"
+        },
+        {
+            "word": "lambda",
+            "prob": "0.0005534707"
+        },
+        {
+            "word": "price",
+            "prob": "0.00051535683"
+        },
+        {
+            "word": "demand",
+            "prob": "0.0005116164"
+        },
+        {
+            "word": "could",
+            "prob": "0.00048565213"
+        },
+        {
+            "word": "one",
+            "prob": "0.00048020005"
+        },
+        {
+            "word": "function",
+            "prob": "0.00047823868"
+        },
+        {
+            "word": "model",
+            "prob": "0.00045720267"
+        }
+    ],
+    [
+        {
+            "word": "l_k",
+            "prob": "0.016816039"
+        },
+        {
+            "word": "aircraft",
+            "prob": "0.008736031"
+        },
+        {
+            "word": "movement",
+            "prob": "0.007767276"
+        },
+        {
+            "word": "cap",
+            "prob": "0.005576086"
+        },
+        {
+            "word": "pregnant",
+            "prob": "0.004686445"
+        },
+        {
+            "word": "subset",
+            "prob": "0.0045428104"
+        },
+        {
+            "word": "type",
+            "prob": "0.004500674"
+        },
+        {
+            "word": "collective",
+            "prob": "0.0044982783"
+        },
+        {
+            "word": "negative",
+            "prob": "0.0043621077"
+        },
+        {
+            "word": "associated",
+            "prob": "0.0042121136"
+        }
+    ],
+    [
+        {
+            "word": "cooky",
+            "prob": "0.0076677636"
+        },
+        {
+            "word": "logically",
+            "prob": "0.005744373"
+        },
+        {
+            "word": "ingredient",
+            "prob": "0.0039527025"
+        },
+        {
+            "word": "demonstrate",
+            "prob": "0.0037699968"
+        },
+        {
+            "word": "isnt",
+            "prob": "0.0035296541"
+        },
+        {
+            "word": "equipment",
+            "prob": "0.0029833182"
+        },
+        {
+            "word": "price",
+            "prob": "0.0023741773"
+        },
+        {
+            "word": "laborer",
+            "prob": "0.0015655064"
+        },
+        {
+            "word": "checking",
+            "prob": "0.0011674229"
+        },
+        {
+            "word": "generates",
+            "prob": "0.0011103303"
+        }
+    ],
+    [
+        {
+            "word": "err",
+            "prob": "0.011168087"
+        },
+        {
+            "word": "ride",
+            "prob": "0.009997125"
+        },
+        {
+            "word": "n_j",
+            "prob": "0.009189108"
+        },
+        {
+            "word": "phone",
+            "prob": "0.007918084"
+        },
+        {
+            "word": "trump",
+            "prob": "0.0073320935"
+        },
+        {
+            "word": "apple",
+            "prob": "0.005401901"
+        },
+        {
+            "word": "donald",
+            "prob": "0.0052221706"
+        },
+        {
+            "word": "ytm",
+            "prob": "0.0050784773"
+        },
+        {
+            "word": "president",
+            "prob": "0.004872408"
+        },
+        {
+            "word": "tariff",
+            "prob": "0.0047807815"
+        }
+    ],
+    [
+        {
+            "word": "mathcal",
+            "prob": "0.056239255"
+        },
+        {
+            "word": "information",
+            "prob": "0.033813782"
+        },
+        {
+            "word": "set",
+            "prob": "0.020554869"
+        },
+        {
+            "word": "distribution",
+            "prob": "0.01888837"
+        },
+        {
+            "word": "decision",
+            "prob": "0.017849922"
+        },
+        {
+            "word": "signal",
+            "prob": "0.01621857"
+        },
+        {
+            "word": "p_",
+            "prob": "0.014200701"
+        },
+        {
+            "word": "structure",
+            "prob": "0.01367455"
+        },
+        {
+            "word": "action",
+            "prob": "0.012600239"
+        },
+        {
+            "word": "state",
+            "prob": "0.011517342"
+        }
+    ],
+    [
+        {
+            "word": "v_i",
+            "prob": "0.13620648"
+        },
+        {
+            "word": "v_",
+            "prob": "0.07640556"
+        },
+        {
+            "word": "bidder",
+            "prob": "0.054897692"
+        },
+        {
+            "word": "u_i",
+            "prob": "0.035509977"
+        },
+        {
+            "word": "m_i",
+            "prob": "0.022683859"
+        },
+        {
+            "word": "textbf",
+            "prob": "0.021750325"
+        },
+        {
+            "word": "expected",
+            "prob": "0.009327006"
+        },
+        {
+            "word": "dv_",
+            "prob": "0.00788427"
+        },
+        {
+            "word": "distribution",
+            "prob": "0.00614152"
+        },
+        {
+            "word": "geq",
+            "prob": "0.006087258"
+        }
+    ],
+    [
+        {
+            "word": "one",
+            "prob": "0.0010017218"
+        },
+        {
+            "word": "rate",
+            "prob": "0.00085607154"
+        },
+        {
+            "word": "utility",
+            "prob": "0.0007828748"
+        },
+        {
+            "word": "market",
+            "prob": "0.0007770395"
+        },
+        {
+            "word": "price",
+            "prob": "0.000765718"
+        },
+        {
+            "word": "good",
+            "prob": "0.0007630253"
+        },
+        {
+            "word": "currency",
+            "prob": "0.00072440406"
+        },
+        {
+            "word": "unit",
+            "prob": "0.00067766244"
+        },
+        {
+            "word": "government",
+            "prob": "0.0006374237"
+        },
+        {
+            "word": "would",
+            "prob": "0.0005917283"
+        }
+    ],
+    [
+        {
+            "word": "capitalism",
+            "prob": "0.009493646"
+        },
+        {
+            "word": "industrial",
+            "prob": "0.0075929537"
+        },
+        {
+            "word": "agrarian",
+            "prob": "0.0053818305"
+        },
+        {
+            "word": "keynesianism",
+            "prob": "0.0043662703"
+        },
+        {
+            "word": "mercantilism",
+            "prob": "0.0037104238"
+        },
+        {
+            "word": "revolution",
+            "prob": "0.0035844315"
+        },
+        {
+            "word": "exploitation",
+            "prob": "0.0032279813"
+        },
+        {
+            "word": "century",
+            "prob": "0.0023893798"
+        },
+        {
+            "word": "th",
+            "prob": "0.0022316186"
+        },
+        {
+            "word": "difference",
+            "prob": "0.0022086776"
+        }
+    ],
+    [
+        {
+            "word": "amp",
+            "prob": "0.20932046"
+        },
+        {
+            "word": "x_",
+            "prob": "0.11531927"
+        },
+        {
+            "word": "hline",
+            "prob": "0.02493066"
+        },
+        {
+            "word": "text",
+            "prob": "0.023777006"
+        },
+        {
+            "word": "boldsymbol",
+            "prob": "0.023550807"
+        },
+        {
+            "word": "quad",
+            "prob": "0.023251466"
+        },
+        {
+            "word": "array",
+            "prob": "0.020170264"
+        },
+        {
+            "word": "qquad",
+            "prob": "0.015613022"
+        },
+        {
+            "word": "begin",
+            "prob": "0.011004661"
+        },
+        {
+            "word": "end",
+            "prob": "0.008248655"
+        }
+    ],
+    [
+        {
+            "word": "beta_i",
+            "prob": "0.014104724"
+        },
+        {
+            "word": "borrowed",
+            "prob": "0.00815986"
+        },
+        {
+            "word": "bin",
+            "prob": "0.006527848"
+        },
+        {
+            "word": "prod_",
+            "prob": "0.0058569335"
+        },
+        {
+            "word": "constrain",
+            "prob": "0.005849491"
+        },
+        {
+            "word": "gamma_j",
+            "prob": "0.005459924"
+        },
+        {
+            "word": "constrained",
+            "prob": "0.005360024"
+        },
+        {
+            "word": "np_j",
+            "prob": "0.0045409775"
+        },
+        {
+            "word": "geary",
+            "prob": "0.004262608"
+        },
+        {
+            "word": "gamma_i",
+            "prob": "0.0037574333"
+        }
+    ],
+    [
+        {
+            "word": "q_b",
+            "prob": "0.028188193"
+        },
+        {
+            "word": "c_b",
+            "prob": "0.018697446"
+        },
+        {
+            "word": "c_g",
+            "prob": "0.016820885"
+        },
+        {
+            "word": "q_g",
+            "prob": "0.016678555"
+        },
+        {
+            "word": "pi",
+            "prob": "0.011725148"
+        },
+        {
+            "word": "y_b",
+            "prob": "0.0069204653"
+        },
+        {
+            "word": "y_g",
+            "prob": "0.006878007"
+        },
+        {
+            "word": "x_b",
+            "prob": "0.006869797"
+        },
+        {
+            "word": "c_",
+            "prob": "0.0057266196"
+        },
+        {
+            "word": "cointegrated",
+            "prob": "0.005225193"
+        }
+    ],
+    [
+        {
+            "word": "money",
+            "prob": "0.03038995"
+        },
+        {
+            "word": "rate",
+            "prob": "0.025309242"
+        },
+        {
+            "word": "bank",
+            "prob": "0.02395576"
+        },
+        {
+            "word": "interest",
+            "prob": "0.018031346"
+        },
+        {
+            "word": "inflation",
+            "prob": "0.010214242"
+        },
+        {
+            "word": "would",
+            "prob": "0.009999067"
+        },
+        {
+            "word": "bond",
+            "prob": "0.009425005"
+        },
+        {
+            "word": "government",
+            "prob": "0.008841999"
+        },
+        {
+            "word": "debt",
+            "prob": "0.008181507"
+        },
+        {
+            "word": "central",
+            "prob": "0.007918977"
+        }
+    ],
+    [
+        {
+            "word": "mathop",
+            "prob": "0.014657332"
+        },
+        {
+            "word": "currency",
+            "prob": "0.014008479"
+        },
+        {
+            "word": "loc",
+            "prob": "0.012905586"
+        },
+        {
+            "word": "usd",
+            "prob": "0.009598169"
+        },
+        {
+            "word": "village",
+            "prob": "0.009270658"
+        },
+        {
+            "word": "restriction",
+            "prob": "0.008788798"
+        },
+        {
+            "word": "s_y",
+            "prob": "0.008146111"
+        },
+        {
+            "word": "kr",
+            "prob": "0.0070059835"
+        },
+        {
+            "word": "quote",
+            "prob": "0.0062855263"
+        },
+        {
+            "word": "convertible",
+            "prob": "0.0052333586"
+        }
+    ],
+    [
+        {
+            "word": "carbon",
+            "prob": "0.033094317"
+        },
+        {
+            "word": "vat",
+            "prob": "0.022871379"
+        },
+        {
+            "word": "fee",
+            "prob": "0.020274641"
+        },
+        {
+            "word": "strictly",
+            "prob": "0.013976771"
+        },
+        {
+            "word": "prefers",
+            "prob": "0.013940345"
+        },
+        {
+            "word": "price",
+            "prob": "0.012155685"
+        },
+        {
+            "word": "year",
+            "prob": "0.008595317"
+        },
+        {
+            "word": "indifferent",
+            "prob": "0.008006336"
+        },
+        {
+            "word": "map",
+            "prob": "0.00731817"
+        },
+        {
+            "word": "schedule",
+            "prob": "0.007169763"
+        }
+    ],
+    [
+        {
+            "word": "tuition",
+            "prob": "0.010510559"
+        },
+        {
+            "word": "healthcare",
+            "prob": "0.008658781"
+        },
+        {
+            "word": "mdash",
+            "prob": "0.007919951"
+        },
+        {
+            "word": "pi_l",
+            "prob": "0.0069882553"
+        },
+        {
+            "word": "pi_h",
+            "prob": "0.006468134"
+        },
+        {
+            "word": "offering",
+            "prob": "0.0062523526"
+        },
+        {
+            "word": "college",
+            "prob": "0.006180584"
+        },
+        {
+            "word": "announce",
+            "prob": "0.006086238"
+        },
+        {
+            "word": "company",
+            "prob": "0.0057232534"
+        },
+        {
+            "word": "founder",
+            "prob": "0.0052068667"
+        }
+    ],
+    [
+        {
+            "word": "cost",
+            "prob": "0.06557375"
+        },
+        {
+            "word": "tc",
+            "prob": "0.016330186"
+        },
+        {
+            "word": "curve",
+            "prob": "0.015270759"
+        },
+        {
+            "word": "mc",
+            "prob": "0.014542075"
+        },
+        {
+            "word": "production",
+            "prob": "0.010341329"
+        },
+        {
+            "word": "leisure",
+            "prob": "0.010179364"
+        },
+        {
+            "word": "function",
+            "prob": "0.01003891"
+        },
+        {
+            "word": "param",
+            "prob": "0.009687247"
+        },
+        {
+            "word": "labor",
+            "prob": "0.009666551"
+        },
+        {
+            "word": "substitution",
+            "prob": "0.009563125"
+        }
+    ],
+    [
+        {
+            "word": "advertising",
+            "prob": "0.033198003"
+        },
+        {
+            "word": "fa",
+            "prob": "0.02336416"
+        },
+        {
+            "word": "ca",
+            "prob": "0.021094386"
+        },
+        {
+            "word": "bop",
+            "prob": "0.017833997"
+        },
+        {
+            "word": "oa",
+            "prob": "0.016901826"
+        },
+        {
+            "word": "ka",
+            "prob": "0.016766226"
+        },
+        {
+            "word": "cola",
+            "prob": "0.015259465"
+        },
+        {
+            "word": "u_i",
+            "prob": "0.012633272"
+        },
+        {
+            "word": "increasing",
+            "prob": "0.008087112"
+        },
+        {
+            "word": "pepsi",
+            "prob": "0.007980678"
+        }
+    ],
+    [
+        {
+            "word": "model",
+            "prob": "0.079454325"
+        },
+        {
+            "word": "var",
+            "prob": "0.036436655"
+        },
+        {
+            "word": "dsge",
+            "prob": "0.03546985"
+        },
+        {
+            "word": "forecast",
+            "prob": "0.015911238"
+        },
+        {
+            "word": "sample",
+            "prob": "0.014314508"
+        },
+        {
+            "word": "forecasting",
+            "prob": "0.012116638"
+        },
+        {
+            "word": "amp",
+            "prob": "0.01140014"
+        },
+        {
+            "word": "parameter",
+            "prob": "0.011303677"
+        },
+        {
+            "word": "shock",
+            "prob": "0.009815472"
+        },
+        {
+            "word": "chance",
+            "prob": "0.0082851965"
+        }
+    ]
+]
