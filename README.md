@@ -49,7 +49,11 @@ Or, alternatively, this is the BibTeX format:
 ## References
 
 [1] Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, and Luke Zettlemoyer. 2019. BART: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension. arXiv preprint arXiv:1910.13461.
+
 [2] David M Blei, Andrew Y Ng, and Michael I Jordan. 2003. Latent Dirichlet Allocation. Journal of machine Learning research, 3(Jan):993–1022.
+
 [3] Shraey Bhatia, Jey Han Lau, and Timothy Baldwin. 2016. ”Automatic Labelling of Topics with Neural Embeddings”. In Proceedings of COLING 2016, the 26th International Conference on Computational Linguistics: Technical Papers, pages 953–963, Osaka, Japan. The COLING 2016 Organizing Committee.
+
 [4] Areej Alokaili, Nikolaos Aletras, and Mark Stevenson. 2020. Automatic generation of topic labels. arXiv preprint arXiv:2006.00127.
+
 [5] Tianyi Zhang and Varsha Kishore and Felix Wu* and Kilian Q. Weinberger and Yoav Artzi. 2020. BERTScore: Evaluating Text Generation with BERT.
