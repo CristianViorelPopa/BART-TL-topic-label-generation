@@ -1,6 +1,6 @@
 # BART-TL: Topic Label Generation
 
-Implementation and helper scripts for the paper  [BART-TL: Weakly-Supervised Topic Label Generation](https://www.aclweb.org/anthology/2021.eacl-main.121/).
+Implementation and helper scripts for the paper [BART-TL: Weakly-Supervised Topic Label Generation](https://www.aclweb.org/anthology/2021.eacl-main.121/).
 
 ## Introduction
 
@@ -23,9 +23,23 @@ We release the code we used in our experiments, from preparing the data to train
 * `utils` - Multiple singular scripts that were used when needed, but are not central to the workflow.
 * `bert_score` - Further research not released in the paper, following the work of Alokaili et al. (2020) [4]. We use their data and way of assessing performance using NETL gold-standard labels and BERTScore [5].
 
+You can check each script for the arguments is requires.
+
+To fine-tune a BART-TL model, you would need to follow these stpes:
+
+1. Obtain LDA topics, using the `lda/apply_lda.py` script;
+2. Build a fairseq-compatible dataset using one of the scripts in `bart-tl/build_dataset/**/build_fairseq_dataset.py`;
+3. Preprocess the previous dataset by:
+    a. Applying BPE using the `bart-tl/preprocess/bpe/bpe_preprocess.sh` script (update it to fit your setup);
+    b. Binarizing the resulted dataset using the `bart-tl/preprocess/binarization/binarize.sh` script (update it to fit your setup).
+4. Download the BART-large model from https://github.com/pytorch/fairseq/blob/master/examples/bart/README.md;
+5. Fine-tune it using the `bart-tl/finetune/finetune_bart.sh` script (update it to fit your setup).
+
+The fine-tuning script will create `.pt` checkpoint files that you can then use to infer labels using the `bart-tl/generate.py` script.
+
 ## Citation
 
-If our work was useful to you, please cite it as:
+If this work was useful to you, please cite it as:
 
 `Cristian Popa, Traian Rebedea. 2021. BART-TL: Weakly-Supervised Topic Label Generation. In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume.`
 
