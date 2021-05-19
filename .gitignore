@@ -1,4 +1,6 @@
 netl_src/model_run/pre_trained_models/
+notebooks/checkpoints/
+experiment/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

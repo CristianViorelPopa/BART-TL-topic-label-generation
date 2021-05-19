@@ -43,6 +43,7 @@ class MultiSampleBARTHubInterface(BARTHubInterface):
                num_samples: int = 1, **kwargs) -> List[List]:
         assert num_samples <= beam
         input = [self.encode(sentence) for sentence in sentences]
+
         sample, translations = self.generate(input, beam, verbose, **kwargs)
         results = []
 

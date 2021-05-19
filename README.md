@@ -9,6 +9,7 @@ The goal of our work was to reframe the task of topic labeling from one of ranki
 ## Structure
 
 We release the code we used in our experiments, from preparing the data to training and evaluating the performance. This is what you will find in each of the directories in this repository:
+* `notebooks` - Contains the `end_to_end_workflow.ipynb` notebook that guides the user through the whole process of fine-tuning a _BART-TL_ model
 * `lda` - Contains scripts for applying LDA [2] on a corpus of documents (namely, the ones in the `corpus` directory).
 * `corpus` - The initial corpora of documents we focus our experiments on. The data comes from posts on multiple Stack Exchange forums. For a more complete dataset, see: https://archive.org/download/stackexchange.
 * `data` - Sample topics for each of the 5 subjects from the Stack Exchange data.
@@ -44,7 +45,7 @@ If this work was useful to you, please cite it as:
 
 `Cristian Popa, Traian Rebedea. 2021. BART-TL: Weakly-Supervised Topic Label Generation. In Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume.`
 
-Or, alternatively, this is the BibTeX format:
+Or, alternatively, use this citation in BibTeX format:
 ```
 @inproceedings{popa-rebedea-2021-bart,
     title = "{BART}-{TL}: Weakly-Supervised Topic Label Generation",
