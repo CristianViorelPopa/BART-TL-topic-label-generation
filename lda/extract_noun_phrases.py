@@ -1,4 +1,3 @@
-import sys
 import argparse
 import re
 import string
@@ -116,11 +115,6 @@ def get_noun_phrases(lda_model, corpus, num_topics, topics_indices, original_tex
 
 
 def main():
-    if len(sys.argv) != 6:
-        print("Usage: " + sys.argv[0] + " <lda model> <dct file> <corpus file> <XML input file>"
-                                        " <out file prefix>")
-        exit(0)
-
     parser = argparse.ArgumentParser(
         description='Script for extracting noun phrases for topics and saving them for future use'
     )

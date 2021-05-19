@@ -9,7 +9,7 @@ pickle files namely doc2vec_indices and word2vec_indices  which restrict the sea
 word2vec and doc2vec labels. These pickle files are in support_files.
 """
 
-#import os
+import os
 #import gensim
 import json
 import pandas as pd
@@ -74,15 +74,19 @@ if prob_based_ranking and rebalance_probs:
 			term['prob'] = rebalanced_prob
 
 
-with open(args.doc2vec_indices, 'rb') as m:
+with open(os.path.join(os.path.dirname(__file__), args.doc2vec_indices), 'rb') as m:
 	d_indices = pickle.load(m)
-with open(args.word2vec_indices, 'rb') as n:
+with open(os.path.join(os.path.dirname(__file__), args.word2vec_indices), 'rb') as n:
 	w_indices = pickle.load(n)
 
 # Models loaded
-model1 = Doc2Vec.load(args.doc2vecmodel)
-#model2 = Word2Vec.load(args.word2vecmodel)
-model2 = KeyedVectors.load_word2vec_format(args.word2vecmodel, binary=False)
+
+print(os.path.join(os.path.dirname(__file__), args.doc2vecmodel))
+
+model1 = Doc2Vec.load(os.path.join(os.path.dirname(__file__), args.doc2vecmodel))
+
+model2 = Word2Vec.load(os.path.join(os.path.dirname(__file__), args.word2vecmodel))
+# model2 = KeyedVectors.load_word2vec_format(os.path.join(os.path.dirname(__file__), args.word2vecmodel), binary=False)
 print("models loaded")
 
 # Drop indices duplicates
@@ -235,12 +239,12 @@ def get_labels(topic_num):
 
 #result=[]
 g = open(args.outputfile_candidates, 'w')
-for i in range(0,len(topic_list)):
-    result = get_labels(i)
-    val = ""
-    for item in result:
-        val = val + " " + item[0]
-    g.write(val + "\n")
+for i in range(0, len(topic_list)):
+	result = get_labels(i)
+	val = ""
+	for item in result:
+		val = val + " " + item[0]
+	g.write(val + "\n")
 g.close()
 
 # The output file for candidates.

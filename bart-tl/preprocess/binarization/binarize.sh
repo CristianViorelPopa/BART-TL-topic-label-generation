@@ -1,7 +1,7 @@
 #!/bin/bash
 
-TASK=bart-tl/dataset_fairseq
-GPT2_DICT_DIR=bart-tl/preprocess/bpe
+TASK=../experiment/dataset_fairseq
+GPT2_DICT_DIR=../bart-tl/preprocess/bpe
 
 python3 "$(dirname "$0")"/preprocess.py \
   --source-lang "source" \

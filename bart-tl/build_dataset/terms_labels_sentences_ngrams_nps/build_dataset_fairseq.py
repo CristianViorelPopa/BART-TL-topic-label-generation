@@ -27,7 +27,7 @@ def main():
                         help='File containing the topics in JSON format')
     parser.add_argument('--candidates-file', '-c', required=True, type=str,
                         help='File containing the NETL candidate labels for each topic')
-    parser.add_argument('--sentences-file', '-s', required=True, type=int,
+    parser.add_argument('--sentences-file', '-s', required=True, type=str,
                         help='File containing relevant sentences for each topic')
     parser.add_argument('--noun-phrases-file', '-n', required=True, type=str,
                         help='File containing relevant noun phrases for each topic')

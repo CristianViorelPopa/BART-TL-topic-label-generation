@@ -1,3 +1,5 @@
+netl_src/model_run/pre_trained_models/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -76,6 +78,8 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+notebooks/.lock
+notebooks/cachedir/
 
 # IPython
 profile_default/

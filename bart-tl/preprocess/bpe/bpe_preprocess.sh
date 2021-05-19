@@ -1,7 +1,7 @@
 #!/bin/bash
 
-TASK=bart-tl/dataset_fairseq
-GPT2_BPE_DIR=bart-tl/preprocess/bpe
+TASK=../experiment/dataset_fairseq
+GPT2_BPE_DIR=../bart-tl/preprocess/bpe
 
 for SPLIT in train test
 do

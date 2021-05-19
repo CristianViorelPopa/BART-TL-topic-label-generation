@@ -28,12 +28,13 @@ You can check each script for the arguments is requires.
 To fine-tune a BART-TL model, you would need to follow these stpes:
 
 1. Obtain LDA topics, using the `lda/apply_lda.py` script;
-2. Build a fairseq-compatible dataset using one of the scripts in `bart-tl/build_dataset/**/build_fairseq_dataset.py`;
-3. Preprocess the previous dataset by:
+2. Extract labels for the topic using the NETL code: `TODO`;
+3. Build a fairseq-compatible dataset using one of the scripts in `bart-tl/build_dataset/**/build_fairseq_dataset.py`;
+4. Preprocess the previous dataset by:
     a. Applying BPE using the `bart-tl/preprocess/bpe/bpe_preprocess.sh` script (update it to fit your setup);
     b. Binarizing the resulted dataset using the `bart-tl/preprocess/binarization/binarize.sh` script (update it to fit your setup).
-4. Download the BART-large model from https://github.com/pytorch/fairseq/blob/master/examples/bart/README.md;
-5. Fine-tune it using the `bart-tl/finetune/finetune_bart.sh` script (update it to fit your setup).
+5. Download the BART-large model from https://github.com/pytorch/fairseq/blob/master/examples/bart/README.md;
+6. Fine-tune it using the `bart-tl/finetune/finetune_bart.sh` script (update it to fit your setup).
 
 The fine-tuning script will create `.pt` checkpoint files that you can then use to infer labels using the `bart-tl/generate.py` script.
 
