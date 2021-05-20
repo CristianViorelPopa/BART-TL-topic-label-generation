@@ -73,3 +73,15 @@ Or, alternatively, use this citation in BibTeX format:
 [4] Areej Alokaili, Nikolaos Aletras, and Mark Stevenson. 2020. Automatic generation of topic labels. arXiv preprint arXiv:2006.00127.
 
 [5] Tianyi Zhang and Varsha Kishore and Felix Wu* and Kilian Q. Weinberger and Yoav Artzi. 2020. BERTScore: Evaluating Text Generation with BERT.
+
+
+outputs = model.generate(
+    input_ids=enc.input_ids,
+    attention_mask=enc.attention_mask,
+    max_length=15,
+    min_length=1,
+    do_sample=False,
+    num_beams=25,
+    length_penalty=1.0,
+    repetition_penalty=1.5
+)
