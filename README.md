@@ -6,6 +6,10 @@ Implementation and helper scripts for the paper [BART-TL: Weakly-Supervised Topi
 
 The goal of our work was to reframe the task of topic labeling from one of ranking labels from a predefined pool to one of generating labels. In our experiments we use the [BART model](https://www.aclweb.org/anthology/2020.acl-main.703/) [1], hence the name _BART-TL_.
 
+If you want to quickly use the models to generate labels for topics, they are available on Huggingface:
+- https://huggingface.co/cristian-popa/bart-tl-all
+- https://huggingface.co/cristian-popa/bart-tl-ng
+
 ## Structure
 
 We release the code we used in our experiments, from preparing the data to training and evaluating the performance. This is what you will find in each of the directories in this repository:
